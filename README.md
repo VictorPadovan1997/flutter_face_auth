@@ -19,3 +19,5 @@ Este é um projeto de exemplo utilizado durante a palestra sobre "Flutter" com f
 3. Execute o aplicativo em um emulador ou dispositivo físico.
 
 Este projeto demonstra a integração de várias tecnologias mencionadas acima para criar uma aplicação de detecção facial em Flutter. Certifique-se de ter os plugins instalados e configurados corretamente para experimentar a funcionalidade completa.
+
+<img src="https://i.ibb.co/nD7jbwL/1706190156607.jpg" width="550"/>
